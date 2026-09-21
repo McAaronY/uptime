@@ -21,6 +21,7 @@ status-website:
   name: Upptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   introMessage: welcome
+  userContentBaseUrl: https://v4.gh-proxy.org/https://raw.githubusercontent.com
   navbar:
     - title: Status
       href: /
