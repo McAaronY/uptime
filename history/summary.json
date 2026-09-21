@@ -1,10 +1,10 @@
 [
   {
     "name": "我的站点监控",
-    "url": "https://www.google.com",
-    "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
+    "url": "https://www.yyl202248.ch.eu.org",
+    "icon": "https://icons.duckduckgo.com/ip3/www.yyl202248.ch.eu.org.ico",
     "slug": "我的站点监控",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,61 +16,5 @@
     "timeMonth": 77,
     "timeYear": 77,
     "dailyMinutesDown": {}
-  },
-  {
-    "name": "Wikipedia",
-    "url": "https://en.wikipedia.org",
-    "icon": "https://icons.duckduckgo.com/ip3/en.wikipedia.org.ico",
-    "slug": "wikipedia",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 111,
-    "timeDay": 111,
-    "timeWeek": 111,
-    "timeMonth": 111,
-    "timeYear": 111,
-    "dailyMinutesDown": {}
-  },
-  {
-    "name": "Hacker News",
-    "url": "https://news.ycombinator.com",
-    "icon": "https://icons.duckduckgo.com/ip3/news.ycombinator.com.ico",
-    "slug": "hacker-news",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 184,
-    "timeDay": 184,
-    "timeWeek": 184,
-    "timeMonth": 184,
-    "timeYear": 184,
-    "dailyMinutesDown": {}
-  },
-  {
-    "name": "Secret Site",
-    "url": "$SECRET_SITE",
-    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
-    "slug": "secret-site",
-    "status": "down",
-    "uptime": "99.92%",
-    "uptimeDay": "95.50%",
-    "uptimeWeek": "99.36%",
-    "uptimeMonth": "99.85%",
-    "uptimeYear": "99.92%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {
-      "2026-09-21": 65
-    }
   }
 ]
