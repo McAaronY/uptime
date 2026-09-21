@@ -4,13 +4,7 @@ repo: uptime # The name of this repository
 
 sites:
   - name: 我的站点监控
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Secret Site
-    url: $SECRET_SITE
+    url: https://www.yyl202248.ch.eu.org
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
