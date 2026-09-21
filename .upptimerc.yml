@@ -19,7 +19,7 @@ status-website:
   name: 网站监测
   introTitle: "站点监控"
   introMessage: welcome
-  # userContentBaseUrl: v4.gh-proxy.org/https://raw.githubusercontent.com
+  userContentBaseUrl: https://v4.gh-proxy.org/https://raw.githubusercontent.com
   navbar:
     - title: 状态
       href: /
