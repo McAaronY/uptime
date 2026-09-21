@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.yyl202248.ch.eu.org.ico",
     "slug": "我的站点监控",
     "status": "down",
-    "uptime": "90.76%",
-    "uptimeDay": "90.76%",
-    "uptimeWeek": "90.76%",
-    "uptimeMonth": "90.76%",
-    "uptimeYear": "90.76%",
+    "uptime": "85.19%",
+    "uptimeDay": "85.19%",
+    "uptimeWeek": "85.19%",
+    "uptimeMonth": "85.19%",
+    "uptimeYear": "85.19%",
     "time": 77,
     "timeDay": 77,
     "timeWeek": 77,
     "timeMonth": 77,
     "timeYear": 77,
     "dailyMinutesDown": {
-      "2026-09-21": 11
+      "2026-09-21": 18
     }
   }
 ]
