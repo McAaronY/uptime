@@ -1,25 +1,5 @@
 [
   {
-    "name": "我的站点",
-    "url": "https://www.yyl202248.ch.eu.org",
-    "icon": "https://icons.duckduckgo.com/ip3/www.yyl202248.ch.eu.org.ico",
-    "slug": "我的站点",
-    "status": "down",
-    "uptime": "7.72%",
-    "uptimeDay": "7.72%",
-    "uptimeWeek": "7.72%",
-    "uptimeMonth": "7.72%",
-    "uptimeYear": "7.72%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {
-      "2026-09-21": 5
-    }
-  },
-  {
     "name": "节点站点1",
     "url": "https://yylnode.pages.dev",
     "icon": "https://icons.duckduckgo.com/ip3/yylnode.pages.dev.ico",
@@ -30,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 103,
-    "timeDay": 103,
-    "timeWeek": 103,
-    "timeMonth": 103,
-    "timeYear": 103,
+    "time": 119,
+    "timeDay": 119,
+    "timeWeek": 119,
+    "timeMonth": 119,
+    "timeYear": 119,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 373,
-    "timeDay": 373,
-    "timeWeek": 373,
-    "timeMonth": 373,
-    "timeYear": 373,
+    "time": 346,
+    "timeDay": 346,
+    "timeWeek": 346,
+    "timeMonth": 346,
+    "timeYear": 346,
     "dailyMinutesDown": {}
   }
 ]
