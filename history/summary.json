@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.yyl202248.ch.eu.org.ico",
     "slug": "我的站点",
     "status": "down",
-    "uptime": "74.53%",
-    "uptimeDay": "74.53%",
-    "uptimeWeek": "74.53%",
-    "uptimeMonth": "74.53%",
-    "uptimeYear": "74.53%",
+    "uptime": "7.72%",
+    "uptimeDay": "7.72%",
+    "uptimeWeek": "7.72%",
+    "uptimeMonth": "7.72%",
+    "uptimeYear": "7.72%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-21": 0
+      "2026-09-21": 5
     }
   },
   {
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 116,
-    "timeDay": 116,
-    "timeWeek": 116,
-    "timeMonth": 116,
-    "timeYear": 116,
+    "time": 103,
+    "timeDay": 103,
+    "timeWeek": 103,
+    "timeMonth": 103,
+    "timeYear": 103,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 463,
-    "timeDay": 463,
-    "timeWeek": 463,
-    "timeMonth": 463,
-    "timeYear": 463,
+    "time": 373,
+    "timeDay": 373,
+    "timeWeek": 373,
+    "timeMonth": 373,
+    "timeYear": 373,
     "dailyMinutesDown": {}
   }
 ]
