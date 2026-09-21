@@ -15,7 +15,7 @@ status-website:
   name: Upptime
   introTitle: "站点监控"
   introMessage: welcome
-  userContentBaseUrl: v4.gh-proxy.org/https://raw.githubusercontent.com
+  # userContentBaseUrl: v4.gh-proxy.org/https://raw.githubusercontent.com
   navbar:
     - title: Status
       href: /
