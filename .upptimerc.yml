@@ -9,6 +9,8 @@ sites:
     url: https://yylnode.pages.dev
   - name: 节点站点2
     url: https://node.yyl202248.ch.eu.org
+  - name: 节点站点3
+    url: https://chichi.yyl202248.ch.eu.org
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -18,7 +20,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: 网站监测
   introTitle: "站点监控"
-  introMessage: welcome
+  introMessage: 欢迎您的到来
   userContentBaseUrl: https://v4.gh-proxy.org/https://raw.githubusercontent.com
   navbar:
     - title: 状态
