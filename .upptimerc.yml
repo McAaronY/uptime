@@ -26,5 +26,37 @@ status-website:
     - title: 状态
       href: /
 
+i18n:
+  activeIncidents: 活动事件
+  allSystemsOperational: 所有系统工作正常
+  incidentReport: "$NUMBER 号事件报告 →"
+  activeIncidentSummary: 于 $DATE 打开，包括 $POSTS 个帖子
+  incidentTitle: $NUMBER 号事件详情
+  incidentDetails: 事件详情
+  incidentFixed: 已修复
+  incidentOngoing: 进行中
+  incidentOpenedAt: 打开于
+  incidentClosedAt: 关闭于
+  incidentSubscribe: 订阅更新
+  incidentViewOnGitHub: 于 GitHub 打开
+  incidentCommentSummary: $AUTHOR 发布于 $DATE
+  incidentBack: ← 返回事件列表
+  pastIncidents: 过往事件
+  pastIncidentsResolved: 在 $MINUTES 内解决，包括 $POSTS 个帖子
+  liveStatus: 实时状态
+  overallUptime: "整体正常运行：$UPTIME"
+  overallUptimeTitle: 整体正常运行时间
+  averageResponseTime: "平均响应时间：$TIMEms"
+  averageResponseTimeTitle: 平均响应时间
+  sevelDayResponseTime: 七天响应时间
+  responseTimeMs: 响应时间 (ms)
+  up: 正常
+  down: 离线
+  degraded: 受限
+  ms: ms
+  loading: 加载中
+  navGitHub: GitHub
+  footer: 本页面是[开源]($REPO)的，由 [Upptime](https://upptime.js.org) 提供支持     
+
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
